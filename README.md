@@ -6,5 +6,5 @@ using node to construct a read me
 2. so far I have been able to get the description to post to the readme
 3. I am now working on getting the license badges for the user
  ## Description 
--This program will give users an easier time creating readme files for their work rather than doing all the typing. Allow the program to do most of the work for you
+-This program will give users an easier time creating readme files for their work rather than doing all the typing. Allow the program to do most of the work for you 😎
 
